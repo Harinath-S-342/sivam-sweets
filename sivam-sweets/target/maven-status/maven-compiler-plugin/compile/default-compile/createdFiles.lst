@@ -1,0 +1,5 @@
+com\handson\sivamsweets\SivamSweetsApplication.class
+com\handson\sivamsweets\Repo\RegistrationRepo.class
+com\handson\sivamsweets\Controller\RegistrationController.class
+com\handson\sivamsweets\Service\RegistrationService.class
+com\handson\sivamsweets\Entity\RegistrationEntity.class
